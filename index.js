@@ -69,7 +69,7 @@ const questionsData = [
                 id: "ecole4",
                 question:
                     "Que peux-tu dire de tes projets du parcours création numérique ?",
-                imgSrc: "./img/creation.psd",
+                imgSrc: "./img/creation.png",
                 response:
                     "Le parcours création numérique m'a permis de découvrir le monde de la création et de l'audiovisuel.<br/><br/>J'ai pu apprendre à utiliser des logiciels de création tels que Photoshop, Illustrator, After Effects, Premiere Pro, etc.<br/><br/>Ces compétences ne me servent pas au quotidien mais sont un plus car je sais comment faire du montage vidéo basique, créer un média print ou numérique afin de communiquer sur un évènement ou une entreprise. L'aspect créatif m'a aussi permis d'avoir une autre vision du développement web en ayant une pensée plus tournée vers l'esthétique et l'expérience utilisateur plutôt que purement logique en suivant seulement les tendances black&white et minimalistes",
             },
