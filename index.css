@@ -30,7 +30,7 @@ body {
     flex-direction: column;
     justify-content: center;
     gap: 1.5rem;
-    overflow: scroll;
+    overflow-y: scroll;
 }
 .title {
     font-size: 1.25rem;
@@ -39,7 +39,7 @@ body {
     display: flex;
     align-items: center;
     gap: 0.75rem;
-    overflow: scroll;
+    overflow-y: scroll;
 }
 .profile {
     height: 36px;
@@ -51,7 +51,7 @@ body {
     color: #888;
 }
 .questionsContainer {
-    overflow: scroll;
+    overflow-y: scroll;
 }
 .questionList {
     display: flex;
@@ -77,7 +77,7 @@ body {
 .chat {
     position: relative;
     background-color: #212121;
-    overflow: scroll;
+    overflow-y: scroll;
 }
 .welcome {
     position: absolute;
