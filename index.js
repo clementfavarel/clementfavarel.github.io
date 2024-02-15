@@ -57,6 +57,22 @@ const questionsData = [
                 response:
                     "Et pourquoi pas ?<br/><br/>Je rigole bien évidemment. Plus sérieusement, j'ai choisi l'option DWDI (Développement Web et Dispositifs Interactifs) pour 3 raisons principales.<br/><br/>La première, j'ai toujours été attiré par le monde du numérique et plus spécifiquement les ordinateurs. J'ai toujours été curieux de comprendre comment fonctionnait un site internet, une application, etc.<br/><br/>La deuxième, je trouve que c'est la spécialité qui me correspond le plus étant donné que je suis quelqu'un de très logique et que j'apprécie les optimisations de la vie de tous les jours.<br/><br/>Enfin, la troisième, c'est que je trouve que c'est un domaine qui est en constante évolution et qui offre de nombreuses opportunités.",
             },
+            {
+                id: "ecole3",
+                question:
+                    "Qu'as-tu apris grâce au parcours communication en première et deuxième année ?",
+                imgSrc: "./img/communication.jpg",
+                response:
+                    "Le parcours communication m'a permis de découvrir les enjeux de la communication dans le monde d'aujourd'hui.<br/><br/>J'ai pu apprendre à communiquer de manière efficace, à comprendre l'importance de la communication sur internet et à maîtriser les outils de communication tels que les sites vitrine, les réseaux sociaux et les relations humaines.<br/><br/>C'est une compétence qui me sert au quotidien que ce soit dans mes projets personnels, mes projets professionnels ou même dans ma vie de tous les jours.",
+            },
+            {
+                id: "ecole4",
+                question:
+                    "Que peux-tu dire de tes projets du parcours création numérique ?",
+                imgSrc: "./img/creation.jpg",
+                response:
+                    "Le parcours création numérique m'a permis de découvrir le monde de la création et de l'audiovisuel.<br/><br/>J'ai pu apprendre à utiliser des logiciels de création tels que Photoshop, Illustrator, After Effects, Premiere Pro, etc.<br/><br/>Ces compétences ne me servent pas au quotidien mais sont un plus car je sais comment faire du montage vidéo basique, créer un média print ou numérique afin de communiquer sur un évènement ou une entreprise. L'aspect créatif m'a aussi permis d'avoir une autre vision du développement web en ayant une pensée plus tournée vers l'esthétique et l'expérience utilisateur plutôt que purement logique en suivant seulement les tendances black&white et minimalistes",
+            },
             // parler de mes projets professionnels futurs
         ],
     },
