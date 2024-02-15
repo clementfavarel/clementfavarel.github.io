@@ -61,15 +61,15 @@ const questionsData = [
                 id: "ecole3",
                 question:
                     "Qu'as-tu apris grâce au parcours communication en première et deuxième année ?",
-                imgSrc: "./img/communication.jpg",
+                imgSrc: "./img/instagram.png",
                 response:
-                    "Le parcours communication m'a permis de découvrir les enjeux de la communication dans le monde d'aujourd'hui.<br/><br/>J'ai pu apprendre à communiquer de manière efficace, à comprendre l'importance de la communication sur internet et à maîtriser les outils de communication tels que les sites vitrine, les réseaux sociaux et les relations humaines.<br/><br/>C'est une compétence qui me sert au quotidien que ce soit dans mes projets personnels, mes projets professionnels ou même dans ma vie de tous les jours.",
+                    "Le parcours communication m'a permis de découvrir les enjeux de la communication dans le monde d'aujourd'hui.<br/><br/>J'ai pu apprendre à communiquer de manière efficace, à comprendre l'importance de la communication sur internet et à maîtriser les outils de communication tels que les sites vitrine, les réseaux sociaux et les relations humaines.<br/>J'ai aussi appris à utiliser des outils comme le SWOT pour établir un climat fictif d'une entreprise ou d'un projet. En listant les forces, faiblesses, menaces et opportunités, j'ai pu me rendre compte de la viabilité d'un projet, de ses axes d'amélioration mais aussi me rendre compte de l'importance d'étudier le marché et procéder à une veille concurrentielle.<br/><br/>C'est une compétence qui me sert au quotidien que ce soit dans mes projets personnels, mes projets professionnels ou même dans ma vie de tous les jours.",
             },
             {
                 id: "ecole4",
                 question:
                     "Que peux-tu dire de tes projets du parcours création numérique ?",
-                imgSrc: "./img/creation.jpg",
+                imgSrc: "./img/creation.psd",
                 response:
                     "Le parcours création numérique m'a permis de découvrir le monde de la création et de l'audiovisuel.<br/><br/>J'ai pu apprendre à utiliser des logiciels de création tels que Photoshop, Illustrator, After Effects, Premiere Pro, etc.<br/><br/>Ces compétences ne me servent pas au quotidien mais sont un plus car je sais comment faire du montage vidéo basique, créer un média print ou numérique afin de communiquer sur un évènement ou une entreprise. L'aspect créatif m'a aussi permis d'avoir une autre vision du développement web en ayant une pensée plus tournée vers l'esthétique et l'expérience utilisateur plutôt que purement logique en suivant seulement les tendances black&white et minimalistes",
             },
